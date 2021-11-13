@@ -13,4 +13,4 @@
 - Trees and graphs
 -------------------------------
 [Course Link](https://www.linkedin.com/learning/programming-foundations-data-structures-2/)
-<br>[Preview Certificate]()
+<br>[Preview Certificate](https://www.linkedin.com/posts/mohamed-hossny-hussein-hamed-436908218_certificateofcompletionprogramming-foundations-activity-6845826277975441408-jhU8)
