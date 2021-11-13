@@ -11,4 +11,4 @@
 - Analyze Git features for ignoring files and directories.
 -------------------------------
 [Course Link](https://www.linkedin.com/learning/git-essential-training-the-basics)
-<br>[Preview Certificate]()
+<br>[Preview Certificate](https://www.linkedin.com/posts/mohamed-hossny-hussein-hamed-436908218_certificateofcompletiongit-essential-training-activity-6849831375739215872-Huam)
